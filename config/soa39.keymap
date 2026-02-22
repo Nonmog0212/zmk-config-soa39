@@ -94,7 +94,7 @@
 &kp F1     &kp F2         &kp F3            &kp F4             &kp F5         &kp F6   &kp F7    &kp F8    &kp F9     &kp F10
 &kp MINUS  &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans   &kp UP    &trans    &kp F11    &kp F12
 &trans     &kp SEMICOLON  &kp SQT           &kp RS(SLASH)      &kp SLASH      &trans   &kp LEFT  &kp DOWN  &kp RIGHT  &trans
-&kp COMMA  &kp PERIOD     &trans            &trans             &trans         &kp DEL  &kp ESC   &trans    &trans
+&kp COMMA  &kp PERIOD     &kp LANG1         &kp LANG2          &trans         &kp DEL  &kp ESC   &trans    &trans
             >;
         };
 
